@@ -1,0 +1,67 @@
+/*MAIN*/
+body{
+	background-color: #55ffee;
+	font-family: 'Overlock', cursive;
+}
+h1{
+	color: #fff;
+	text-align: center;
+	font-size: 4em;
+}
+ul {
+	list-style:none;
+	margin: 0 auto;
+	padding: 0;
+	display: block;
+	max-width: 780px;
+	text-align: center;
+}
+ul li{
+	display:inline-block;
+	padding: 3px;
+	background: #F7F7F7;
+	margin:10px;
+}
+ul li img{
+	display: block;
+	widows: 300px;
+}
+a{
+	text-decoration: none;
+}
+/*OVERLAY*/
+#overlay{
+	background: #323232;
+	width:100%;
+	height:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	opacity:50%;
+	display:none;
+	text-align: center;
+}
+#overlay img{
+	margin-top:10%;
+	opacity:50%;
+}
+
+#overlay p{
+	color: #fff;
+	font-size: 4em;
+	opacity:50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
